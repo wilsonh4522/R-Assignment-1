@@ -7,6 +7,3 @@ Steps to get set up
 - Fork this repository
 - Clone this repo
 - Follow the instructions to complete this assignment
-- git add -A
-- git commit -m "your commit message"
-- git push
