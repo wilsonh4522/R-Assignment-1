@@ -2,11 +2,11 @@
 
 
 # Create a variable 'x' that holds a value of 9
-
+x <- 9
 # Create a variable 'y' that holds a value of x
-
+y <- x
 # Create a variable 'z' that holds the sum of x and y
-
+z <- x + y
 # Clear the variable x from the workspace
 
 # Clear all variables from the workspace
@@ -26,3 +26,8 @@
     # Subtract 6 from the answer.
     # Divide what you get by 3.
 # you should end up with the same number that you started with
+x <- 7 + 2
+y <- x * 3
+z <- y - 6
+A <- z / 3
+# A = 7 
