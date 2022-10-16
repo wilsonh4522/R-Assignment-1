@@ -8,11 +8,11 @@ y <- x
 # Create a variable 'z' that holds the sum of x and y
 z <- x + y
 # Clear the variable x from the workspace
-
+rm(x)
 # Clear all variables from the workspace
-
+rm(list=ls())
 # Make a statement that directs to http://www.google.com
-
+browseURL('http://www.google.com&apos';)
 # Show a list of all packages installed
 
 # Show a list of packages currently installed and usable
